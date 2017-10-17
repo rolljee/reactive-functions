@@ -1,0 +1,27 @@
+{
+  "name": "reactive-function",
+  "version": "1.0.0",
+  "description": "Make basic functions reactive",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolljee/reactive-functions.git"
+  },
+  "keywords": [
+    "reactive",
+    "function"
+  ],
+  "author": "rolljee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolljee/reactive-functions/issues"
+  },
+  "homepage": "https://github.com/rolljee/reactive-functions#readme",
+  "dependencies": {
+    "events": "^1.1.1",
+    "lodash": "^4.17.4"
+  }
+}
